@@ -5,5 +5,6 @@ public class Input {
         System.out.println("Enter number");
         int num=sc.nextInt();
         System.out.println("Number is: "+ num);
+        sc.close();
     }
 }
