@@ -1,4 +1,5 @@
-//Conditional Statements- if, else, else if, switch, break
+package Day04_Basics;
+// Conditional Statements- if, else, else if, switch, break
 import java.util.*;
 public class Conditionals {
     public static void main(String[]args){
