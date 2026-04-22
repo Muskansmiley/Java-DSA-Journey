@@ -15,3 +15,8 @@ public class Conditionals {
 
     }
 }
+
+// to print: with package
+// cd ..
+// javac Day04_Basics/Conditionals.java
+// java Day04_Basics.Conditionals
