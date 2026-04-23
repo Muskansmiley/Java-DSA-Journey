@@ -16,5 +16,6 @@ public class NumberCheck {
                 System.out.println("num1 is lesser");
             }
         }
+        sc.close();
     }
 }
