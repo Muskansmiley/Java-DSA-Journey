@@ -11,6 +11,7 @@ public class Conditionals {
         }else{
             System.out.println("Not Adult");
         }
+        sc.close();
 
     }
 }
