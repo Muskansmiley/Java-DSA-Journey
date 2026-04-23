@@ -31,5 +31,6 @@ public class Button {
             break;
             default: System.out.println("Invalid Button");
         }
+        sc.close();
     }
 }
