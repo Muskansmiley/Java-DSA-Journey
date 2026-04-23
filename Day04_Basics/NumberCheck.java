@@ -11,9 +11,9 @@ public class NumberCheck {
             System.out.println("Equal");
         }else{
             if(num1>num2){
-                System.out.println("num1 is greater")
+                System.out.println("num1 is greater");
             }else{
-                System.out.println("num1 is lesser")
+                System.out.println("num1 is lesser");
             }
         }
     }
