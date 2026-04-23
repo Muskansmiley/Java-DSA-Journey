@@ -1,4 +1,3 @@
-package Day04_Basics;
 // Conditional Statements- if, else, else if, switch, break
 import java.util.*;
 public class Conditionals {
@@ -20,3 +19,10 @@ public class Conditionals {
 // cd ..
 // javac Day04_Basics/Conditionals.java
 // java Day04_Basics.Conditionals
+
+// to delete package
+// remove package line 
+// cd Day04_Basics
+// del *.class
+// javac Conditionals.java
+// java Conditionals
