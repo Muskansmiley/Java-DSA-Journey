@@ -9,13 +9,14 @@ public class NumberCheck {
 
         if(num1==num2){
             System.out.println("Equal");
-        }else{
-            if(num1>num2){
-                System.out.println("num1 is greater");
-            }else{
-                System.out.println("num1 is lesser");
-            }
         }
+        else if(num1>num2){
+            System.out.println("num1 is greater");
+        }
+        else{
+            System.out.println("num1 is lesser");
+        }
+        
         sc.close();
     }
 }
