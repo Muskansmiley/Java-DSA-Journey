@@ -19,9 +19,9 @@ Learned:
 Day 3 (Operators)
 Learned:
 - Operators
--Solved Problems such as:
--EvenOdd
--Vote
+- Solved Problems such as:
+- EvenOdd
+- Vote
 
 Day 4 (Conditional Statements)
 Learned:
