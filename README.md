@@ -15,3 +15,15 @@ Learned:
 - Data Types
 - Taking Input from Scanner
 - Basic Arithmetic operators
+
+Day 3 (Operators)
+Learned:
+- Operators
+Solved Problems such as:
+-EvenOdd
+-Vote
+
+Day 4 (Conditional Statements)
+-if, else if, else, switch, break
+Solved Problems such as:
+-Button, NumberCheck, Calculator, Month, Week
