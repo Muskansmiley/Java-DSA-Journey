@@ -24,6 +24,7 @@ Solved Problems such as:
 -Vote
 
 Day 4 (Conditional Statements)
+Learned:
 -if, else if, else, switch, break
 Solved Problems such as:
 -Button, NumberCheck, Calculator, Month, Week
