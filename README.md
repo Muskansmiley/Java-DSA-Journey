@@ -28,3 +28,9 @@ Learned:
 - if, else if, else, switch, break
 - Solved Problems such as:
 - Button, NumberCheck, Calculator, Month, Week
+
+Day 5 (Loops)
+Learned:
+- for loop, while loop, do-while loop
+- Solved Problems such as:
+- EvenNumbers, MenuDriven, PrimeCheck, SumOfNaturalNumbers, TableOfN
