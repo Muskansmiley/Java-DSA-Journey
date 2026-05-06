@@ -1,3 +1,11 @@
+//Qs-> Print the pattern:
+// * * * *
+// * * *
+// * *
+// * 
+
+// basically starting from n and goes till 1
+
 import java.util.*;
 public class InvertedHalfPyramid {
     public static void main(String[] args) {
