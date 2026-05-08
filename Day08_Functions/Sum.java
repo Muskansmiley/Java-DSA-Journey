@@ -15,5 +15,7 @@ public class Sum {
 
         int sum= calculateSum(a, b);
         System.out.println("Sum of a&b is: "+sum);
+
+        sc.close();
     }
 }
