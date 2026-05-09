@@ -34,3 +34,21 @@ Learned:
 - for loop, while loop, do-while loop
 - Solved Problems such as:
 - EvenNumbers, MenuDriven, PrimeCheck, SumOfNaturalNumbers, TableOfN
+
+Day 6 (Patterns)
+Learned :
+- Nested loops
+- Solved Problems such as:
+- FloydTriangle, HalfPyramid, HalfPyramidNumbers, HollowRectangle, InvertedHalfPyramid, InvertedHalfPyramidNumbers, RotatedHalfPyramid,    SolidRectangle, ZeroOneTriangle
+
+Day 7 (Advanced Patterns)
+Learned:
+- more about patterns and practice questions
+- Solved Problems such as:
+- Butterfly, Diamond, NumberPyramid, PalindromicPattern, SolidRhombus
+
+Day 8 (Functions)
+Learned: 
+- about functions and methods, basically solved problems using functions
+- Solved Problems such as: 
+- Average, CircumferenceOfCircle, Factorial, GreaterOfTwo etc
