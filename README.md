@@ -52,3 +52,9 @@ Learned:
 - about functions and methods, basically solved problems using functions
 - Solved Problems such as: 
 - Average, CircumferenceOfCircle, Factorial, GreaterOfTwo etc
+
+Day 9 (Arrays)
+Learned:
+- about arrays, creating array, Taking an array as an input and printing its elements
+- Solved problems such as:
+- MaxAndMin, SortedOrNot etc
