@@ -7,7 +7,7 @@ public class CaseCheck {
         char ch= sc.next().trim().charAt(0);
 
         if(ch>='a' && ch<='z'){
-            System.out.println("Lowecase");
+            System.out.println("Lowercase");
         }else{
             System.out.println("Uppercase");
         }
