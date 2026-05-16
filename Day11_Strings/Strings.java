@@ -5,6 +5,8 @@ public class Strings {
         //.next()-> for single word, .nextLine()-> for lines
         String name=sc.nextLine();
         System.out.println("Your name is: "+name);
+
+        sc.close();
     }
     
 }
