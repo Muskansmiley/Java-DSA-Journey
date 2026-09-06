@@ -16,5 +16,6 @@ public class InvertedStarPattern {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
