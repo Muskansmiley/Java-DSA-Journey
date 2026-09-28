@@ -5,7 +5,7 @@
 //   * * * * *
 // * * * * *
 
-public class SolidRhombus {
+public class P7_SolidRhombus {
     public static void main(String[] args) {
         int n=5;
 
