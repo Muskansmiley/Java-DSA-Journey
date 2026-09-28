@@ -8,7 +8,7 @@
 // basically opposite of HalfPyramidNumbers
 
 import java.util.*;
-public class P3_NumInvertedHalfPyramid{
+public class P03_NumInvertedHalfPyramid{
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter the number of rows:");

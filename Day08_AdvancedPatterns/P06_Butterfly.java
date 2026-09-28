@@ -8,7 +8,7 @@
 // * *         * *
 // *             *
 
-public class P6_Butterfly {
+public class P06_Butterfly {
     public static void main(String[] args) {
         int n=5;
 

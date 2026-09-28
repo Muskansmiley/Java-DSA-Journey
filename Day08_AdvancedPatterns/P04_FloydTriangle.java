@@ -8,7 +8,7 @@
 // incrementing number in each row
 
 import java.util.*;
-public class P4_FloydTriangle {
+public class P04_FloydTriangle {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter the number of rows: ");

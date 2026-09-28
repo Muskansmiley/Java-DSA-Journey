@@ -8,7 +8,7 @@
 // baically a frame like structure
 
 import java.util.*;
-public class P1_HollowRectangle {
+public class P01_HollowRectangle {
     public static void main(String[] args) {
       Scanner sc=new Scanner(System.in);
         System.out.print("Enter thr number of rows: ");

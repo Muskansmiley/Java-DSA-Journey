@@ -6,7 +6,7 @@
 // 1 0 1 0 1
 
 import java.util.*;
-public class P5_ZeroOneTriangle {
+public class P05_ZeroOneTriangle {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter the number of rows: ");

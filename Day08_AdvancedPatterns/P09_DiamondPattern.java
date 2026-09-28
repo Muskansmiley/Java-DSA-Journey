@@ -8,7 +8,7 @@
 //     * * *
 //       *
 
-public class P9_DiamondPattern {
+public class P09_DiamondPattern {
     public static void main(String[] args) {
         int n=4;
 

@@ -7,7 +7,7 @@
 // basically rotated by 180 degree
 
 import java.util.*;
-public class P2_InvertedRotatedHalfPyramid{
+public class P02_InvertedRotatedHalfPyramid{
     public static void main(String[] args) {
         Scanner sc =new Scanner(System.in);
         System.out.print("Enter thr number of rows: ");
