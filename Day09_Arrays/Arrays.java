@@ -2,7 +2,7 @@ import java.util.*;
 public class Arrays {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
-
+        System.out.print("Enter the size of Array: ");
         int size=sc.nextInt();
         
         //first way 
@@ -19,11 +19,12 @@ public class Arrays {
 
         //input
         for(int i=0; i<size;i++){
+            System.out.print("Enter the numbers at "+i+": ");
             numbers[i]=sc.nextInt();
         }
 
         for(int i=0;i<size;i++){
-            System.out.println(numbers[i]);
+            System.out.print(numbers[i]+" ");
         }
         sc.close();
 
