@@ -1,5 +1,6 @@
 //Brute force
 // to calculate the sum of each subarray and find the max sum
+// time complexity-O(n^3) which is actually very bad
 
 public class MaxSubArraySum {
     public static void subArraySum(int[]numbers){
