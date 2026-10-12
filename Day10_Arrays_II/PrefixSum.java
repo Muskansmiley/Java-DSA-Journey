@@ -27,7 +27,7 @@ public class PrefixSum {
         System.out.print("maxSum="+maxSum);
     }
     public static void main(String[] args) {
-        int[]numbers={2,4,6,8,10};
+        int[]numbers={2, -3, 4, 5, -2};
         subArraySum(numbers);
     }
     
