@@ -16,8 +16,9 @@ public class KadanesAlgo {
         System.out.println("maximum subarray sum is: "+ms);
     }
     public static void main(String[] args) {
-        int[]nums={-2,-3,4,-1,-2,1,5,-3};
-        //int[]nums={-1,-2,-3};
+        //int[]nums={-2,-3,4,-1,-2,1,5,-3};
+        int[]nums={-1,-2,-3};
         kadanes(nums);
     }
 }
+
